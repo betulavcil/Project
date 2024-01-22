@@ -10,7 +10,7 @@
 
  Veri seti son alışverişlerini 2020 - 2021 yıllarında OmniChannel(hem online hem offline) olarak yapan müşterilerin geçmiş alışveriş davranışlarından elde edilen bilgilerden oluşmaktadır.
 
- 20.000 gözlem, 13 değişken
+ 19.945 gözlem, 12 değişken
 
 1) master_id: Eşsiz müşteri numarası
 2) order_channel : Alışveriş yapılan platforma ait hangi kanalın kullanıldığı (Android, ios, Desktop, Mobile, Offline)
@@ -24,4 +24,4 @@
 10) customer_value_total_ever_offline : Müşterinin offline alışverişlerinde ödediği toplam ücret
 11) customer_value_total_ever_online : Müşterinin online alışverişlerinde ödediği toplam ücret
 12) interested_in_categories_12 : Müşterinin son 12 ayda alışveriş yaptığı kategorilerin listesi
-13) store_type : 3 farklı companyi ifade eder. A company'sinden alışveriş yapan kişi B'dende yaptı ise A,B şeklinde yazılmıştır.
+
